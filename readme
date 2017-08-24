@@ -1,0 +1,9 @@
+To get it work:
+
+1. Install any tool to run java file.
+2. Follow below steps on you cmd:
+	a) Go to the folder where .java file resides.
+	b) set path of jdk/bin folder as: set path=<path till bin folder>
+	c) now run command: javac SearchCrawler.java where SearchCrawler is file name.
+	d) next run command: java SerachCrawler where SerachCrawler is your java file name.
+3. Now desktop application will be visible to you.
